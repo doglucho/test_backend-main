@@ -1,7 +1,7 @@
 {
   "name": "test_backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![WheelHub](https://wheelhub.es/logo/Logotipo-Vertical-Negro-Alta.png)](https://wheelhub.es/)",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -9,12 +9,20 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "",
+  "author": "doglucho",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.1"
   },
   "devDependencies": {
     "typescript": "^4.4.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doglucho/test_backend-main.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doglucho/test_backend-main/issues"
+  },
+  "homepage": "https://github.com/doglucho/test_backend-main#readme"
 }
